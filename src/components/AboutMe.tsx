@@ -19,7 +19,7 @@ export default function AboutMe() {
 						className="mb-10 w-full max-w-[280px] rounded-full border-4 border-cyan-500 grayscale filter transition duration-300 hover:filter-none dark:border-cyan-700 md:mb-0"
 					/>
 					<p className="flex w-full max-w-2xl items-center text-center text-base md:mb-0 md:ml-10 md:text-lg">
-						{`I'm a student at Bennett University in Greater Noida, India, where I'm studying a Bachelor of Technology in Computer Science Engineering. I am specializing in artificial intelligence, but I'll experiment with any new technology I come across. Details about my schooling, abilities, and completed projects are provided here. I hope you enjoy them, and please consider emailing me any comments you may have.`}
+						{`I am a student at the National Technological University, Argentina, where I am studying information systems engineering. I am specializing in developing both digital and mobile applications, but I will experiment with any new technology I find. Details about my studies, skills and completed projects are provided here. I hope you enjoy them and please consider emailing me with any comments you may have.`}
 					</p>
 				</div>
 			</div>
