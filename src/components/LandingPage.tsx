@@ -5,8 +5,8 @@ import { useEffect, useState } from 'react';
 import TextTransition, { presets } from 'react-text-transition';
 
 export default function LandingPage() {
-	const line1 = 'Hi, I am a passionate computer science student from India🇮🇳 🇮🇳';
-	const line2 = 'I like to learn new things and build stuff.';
+	const line1 = 'Hello, I am a passionate systems engineering student from Argentina.';
+	const line2 = 'I like to learn new things and build innovative projects.';
 
 	const [mounted, setMounted] = useState(false);
 
