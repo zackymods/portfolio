@@ -21,7 +21,7 @@ export default function Education() {
 							</div>
 							<div className="block">
 								<Image
-									src="/bps_logo.png"
+									src="/i206.png"
 									alt="BPS Logo"
 									width={100}
 									title="BPS Mayur Vihar Phase III"
