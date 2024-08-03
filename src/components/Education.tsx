@@ -45,10 +45,10 @@ export default function Education() {
 							<div className="block">
 								<Image
 									src="/utn.png"
-									alt="BPS Logo"
+									alt="UTN Logo"
 									width={100}
 									height={100}
-									title="BPS Mayur Vihar Phase III"
+									title="UTN Logo"
 									onClick={() => {
 										window.open('https://www.bpsmv.edu.in/', '_blank');
 									}}
