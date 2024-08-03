@@ -14,7 +14,7 @@ export default function LandingPage() {
 		setMounted(true);
 	}, []);
 
-	const titles = ['Computer Science Student', 'Full Stack Developer', 'Competitive Programmer', 'Caffeinated Coder'];
+	const titles = ['Systems engineering student', 'Full Stack Developer', 'Competitive Programmer', 'Caffeinated Coder'];
 	const [titleIndex, setTitleIndex] = useState(0);
 
 	useEffect(() => {
@@ -28,7 +28,7 @@ export default function LandingPage() {
 		<div className="min-h-[100dvh] w-full md:flex md:items-center md:justify-center">
 			<div className="px-10 pt-10 text-center">
 				<h1 className="py-2 text-3xl font-medium text-cyan-700 dark:text-cyan-600 sm:text-4xl md:text-5xl">
-					Chirag Aggarwal
+					JploreDev
 				</h1>
 
 				{mounted ? (
