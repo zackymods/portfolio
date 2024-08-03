@@ -44,7 +44,7 @@ export default function Education() {
 							</div>
 							<div className="block">
 								<Image
-									src="/bps_logo.png"
+									src="/utn.png"
 									alt="BPS Logo"
 									width={100}
 									height={100}
