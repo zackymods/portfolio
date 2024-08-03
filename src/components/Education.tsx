@@ -14,10 +14,10 @@ export default function Education() {
 					<div className="group m-4 flex justify-between rounded-xl border-2 border-cyan-200 p-5 text-gray-700 hover:border-cyan-500  dark:border-gray-800 dark:text-white dark:hover:border-cyan-700">
 						<Fade left cascade>
 							<div>
-								<p className="mb-2 text-base text-cyan-600 dark:text-cyan-500">2020</p>
+								<p className="mb-2 text-base text-cyan-600 dark:text-cyan-500">2019-2024</p>
 								<p className="my-1 text-xl font-medium">IPEM 206 Fernando Fader</p>
 								<p className="my-1 text-sm font-medium">Degree in social sciences</p>
-								<p className="text-sm">Grade: 91.2% </p>
+								<p className="text-sm">Completion: 100% </p>
 							</div>
 							<div className="block">
 								<Image
@@ -37,10 +37,10 @@ export default function Education() {
 					<div className="group m-4 flex justify-between rounded-xl border-2 border-cyan-200 p-5 text-gray-700 hover:border-cyan-500  dark:border-gray-800 dark:text-white dark:hover:border-cyan-700">
 						<Fade left>
 							<div>
-								<p className="mb-2 text-base text-cyan-600 dark:text-cyan-500">2020-2022</p>
-								<p className="my-1 text-xl font-medium">Class XII</p>
-								<p className="my-1 text-sm font-medium">Science</p>
-								<p className="text-sm">Grade: 89.5% </p>
+								<p className="mb-2 text-base text-cyan-600 dark:text-cyan-500">2025-2030</p>
+								<p className="my-1 text-xl font-medium">Universidad Tecnológica Nacional</p>
+								<p className="my-1 text-sm font-medium">Information systems engineer</p>
+								<p className="text-sm">Completion: 0% </p>
 							</div>
 							<div className="block">
 								<Image
