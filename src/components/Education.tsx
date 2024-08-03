@@ -15,16 +15,16 @@ export default function Education() {
 						<Fade left cascade>
 							<div>
 								<p className="mb-2 text-base text-cyan-600 dark:text-cyan-500">2020</p>
-								<p className="my-1 text-xl font-medium">Class X</p>
-								<p className="my-1 text-sm font-medium">CBSE</p>
+								<p className="my-1 text-xl font-medium">IPEM 206 Fernando Fader</p>
+								<p className="my-1 text-sm font-medium">Degree in social sciences</p>
 								<p className="text-sm">Grade: 91.2% </p>
 							</div>
 							<div className="block">
 								<Image
 									src="/i206.png"
-									alt="BPS Logo"
+									alt="IPEM 206 Fernando Fader Logo"
 									width={100}
-									title="BPS Mayur Vihar Phase III"
+									title="IPEM 206 Fernando Fader"
 									height={100}
 									onClick={() => {
 										window.open('https://www.bpsmv.edu.in/', '_blank');
