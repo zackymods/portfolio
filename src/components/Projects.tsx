@@ -67,7 +67,7 @@ export default function Projects() {
 		{
 			index: 2,
 			image: '/project_thumbnails/clasificados.png',
-			image_dark: '/project_thumbnails/dark/bu-news-android.png',
+			image_dark: '/project_thumbnails/clasificados.png',
 			description: 'Web Application',
 			name: 'Clasificados Autos Usados',
 			demo_link: 'https://clasificadosautosusados.pages.dev/',
