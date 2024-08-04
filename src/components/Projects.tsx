@@ -99,14 +99,14 @@ export default function Projects() {
 		},
 		{
 			index: 5,
-			image: '/project_thumbnails/light/bug-squash.png',
-			image_dark: '/project_thumbnails/dark/bug-squash.png',
+			image: '/project_thumbnails/ares.png',
+			image_dark: '/project_thumbnails/ares.png',
 			description: 'Web Application',
-			name: 'Bug Squash',
-			demo_link: 'https://bug-squash.co',
-			github_link: 'https://github.com/ChiragAgg5k/bug-squash',
-			hover_gif_dark: '/project_gifs/dark/bug-squash.gif',
-			hover_gif_light: '/project_gifs/light/bug-squash.gif',
+			name: 'Ares Website',
+			demo_link: '',
+			github_link: 'https://github.com/JploreDev/areswebsite',
+			hover_gif_dark: '/project_gifs/ares.gif',
+			hover_gif_light: '/project_gifs/ares.gif',
 		},
 	];
 
