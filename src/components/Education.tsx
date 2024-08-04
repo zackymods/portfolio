@@ -11,6 +11,26 @@ export default function Education() {
 					Education
 				</h3>
 				<div className="mx-0 grid grid-cols-1 sm:grid-cols-2 md:mx-5 lg:grid-cols-4">
+<div className="group m-4 flex justify-between rounded-xl border-2 border-cyan-200 p-5 text-gray-700 hover:border-cyan-500 dark:border-gray-800  dark:text-white dark:hover:border-cyan-700 sm:col-span-2">
+						<Fade left>
+							<div>
+								<p className="mb-2 text-base text-cyan-600 dark:text-cyan-500">2018-2025</p>
+								<p className="my-1 font-medium sm:text-xl">FullStack Developer</p>
+								<p className="my-1 text-sm font-medium">Autodidact</p>
+								<p className="text-sm"></p>
+							</div>
+							<Image
+								src="/autodidacta.png"
+								alt="Autodidact Logo"
+								width={100}
+								height={100}
+								title="Autodidact"
+								className="object-contain hover:cursor-pointer"
+							/>
+						</Fade>
+					</div>
+
+					
 					<div className="group m-4 flex justify-between rounded-xl border-2 border-cyan-200 p-5 text-gray-700 hover:border-cyan-500  dark:border-gray-800 dark:text-white dark:hover:border-cyan-700">
 						<Fade left cascade>
 							<div>
@@ -57,27 +77,7 @@ export default function Education() {
 							</div>
 						</Fade>
 					</div>
-					<div className="group m-4 flex justify-between rounded-xl border-2 border-cyan-200 p-5 text-gray-700 hover:border-cyan-500 dark:border-gray-800  dark:text-white dark:hover:border-cyan-700 sm:col-span-2">
-						<Fade left>
-							<div>
-								<p className="mb-2 text-base text-cyan-600 dark:text-cyan-500">2022-2026</p>
-								<p className="my-1 font-medium sm:text-xl">B.Tech in Computer Science</p>
-								<p className="my-1 text-sm font-medium">Bennett University</p>
-								<p className="text-sm">CGPA: 9.66</p>
-							</div>
-							<Image
-								src="/bennett_logo.png"
-								alt="Bennett Logo"
-								width={100}
-								height={100}
-								title="Bennett University"
-								onClick={() => {
-									window.open('https://www.bennett.edu.in/', '_blank');
-								}}
-								className="object-contain hover:cursor-pointer"
-							/>
-						</Fade>
-					</div>
+					
 					{/* </Slide> */}
 				</div>
 			</div>
