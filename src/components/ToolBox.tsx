@@ -44,13 +44,13 @@ const languageTools: Tool[] = [
 		icon: <FaHtml5 className="m-4 text-6xl text-red-600" />,
 	},
 	{
-		index: 4,
+		index: 6,
 		name: 'CSS',
 		icon: <FaCss3Alt className="m-4 text-6xl text-blue-600" />,
 	},
 
 	{
-		index: 4,
+		index: 7,
 		name: 'PHP',
 		icon: <FaPhp className="m-4 text-6xl text-blue-600" />,
 	},
@@ -72,16 +72,7 @@ const frameworkTools: Tool[] = [
 		name: 'Express.js',
 		icon: <SiExpress className={'m-4 text-6xl text-white'} />,
 	},
-	{
-		index: 3,
-		name: 'Flutter',
-		icon: <SiFlutter className={'m-4 text-6xl text-cyan-500'} />,
-	},
-	{
-		index: 4,
-		name: 'Android',
-		icon: <BsAndroid2 className={'m-4 text-6xl text-green-600'} />,
-	},
+	
 ];
 
 const databaseTools: Tool[] = [
