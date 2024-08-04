@@ -76,23 +76,19 @@ const frameworkTools: Tool[] = [
 ];
 
 const databaseTools: Tool[] = [
+	
 	{
 		index: 0,
-		name: 'MongoDB',
-		icon: <DiMongodb className={'m-4 text-6xl text-green-800'} />,
-	},
-	{
-		index: 1,
 		name: 'PostgreSQL',
 		icon: <DiPostgresql className={'m-4 text-6xl text-blue-600'} />,
 	},
 	{
-		index: 2,
+		index: 1,
 		name: 'MySQL',
 		icon: <SiMysql className={'m-4 text-6xl text-orange-600'} />,
 	},
 	{
-		index: 3,
+		index: 2,
 		name: 'SQLite',
 		icon: <SiSqlite className={'m-4 text-6xl text-blue-600'} />,
 	},
