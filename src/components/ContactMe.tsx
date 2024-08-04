@@ -36,10 +36,10 @@ export default function ContactMe() {
 
 		emailjs
 			.sendForm(
-				process.env.service_1c72xvm,
-				process.env.template_x869yzn,
+				process.env.NEXT_PUBLIC_EMAILJS_SERVICE_ID!,
+				process.env.NEXT_PUBLIC_EMAILJS_TEMPLATE_ID!,
 				form.current,
-				process.env.8GdhIiN4hxKyqcueX
+				process.env.NEXT_PUBLIC_EMAILJS_PUBLIC_KEY
 			)
 			.then(
 				(result) => {
