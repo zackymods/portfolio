@@ -24,11 +24,6 @@ const languageTools: Tool[] = [
 		icon: <DiPython className="m-4 text-6xl text-cyan-700" />,
 	},
 	{
-		index: 1,
-		name: 'C++',
-		icon: <TbBrandCpp className="m-4 text-6xl text-blue-600 " />,
-	},
-	{
 		index: 2,
 		name: 'Java',
 		icon: <DiJava className={'m-4 text-6xl text-orange-700'} />,
@@ -45,9 +40,14 @@ const languageTools: Tool[] = [
 	},
 	{
 		index: 5,
-		name: 'Rust',
-		icon: <FaRust className="m-4 text-6xl text-orange-600" />,
-	}
+		name: 'Html',
+		icon: <FaHtml5 className="m-4 text-6xl text-red-600" />,
+	},
+	{
+		index: 4,
+		name: 'CSS',
+		icon: <FaCss3Alt className="m-4 text-6xl text-blue-600" />,
+	},
 ];
 
 const frameworkTools: Tool[] = [
