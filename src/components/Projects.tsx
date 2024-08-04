@@ -44,14 +44,14 @@ export default function Projects() {
 	const projects: Project[] = [
 		{
 			index: 0,
-			image: '/project_thumbnails/PetrelArq.jpg',
-			image_dark: '/project_thumbnails/PetrelArq.jpg',
+			image: '/project_thumbnails/PetrelArq.png',
+			image_dark: '/project_thumbnails/PetrelArq.png',
 			description: 'Web Application',
 			name: 'PetrelArq',
 			demo_link: 'https://petrelarq.pages.dev/',
 			github_link: 'https://github.com/JploreDev/PetrelArq',
-			hover_gif_dark: '/project_gifs/PetrelArq.jpg',
-			hover_gif_light: '/project_gifs/PetrelArq.jpg',
+			hover_gif_dark: '/project_gifs/PetrelArq.png',
+			hover_gif_light: '/project_gifs/PetrelArq.png',
 		},
 		{
 			index: 1,
