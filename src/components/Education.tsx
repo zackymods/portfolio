@@ -27,7 +27,7 @@ export default function Education() {
 									title="IPEM 206 Fernando Fader"
 									height={100}
 									onClick={() => {
-										window.open('https://www.bpsmv.edu.in/', '_blank');
+										window.open('https://ipem206fernandofader.edu.ar/', '_blank');
 									}}
 									className="hover:cursor-pointer"
 								/>
@@ -50,7 +50,7 @@ export default function Education() {
 									height={100}
 									title="UTN Logo"
 									onClick={() => {
-										window.open('https://www.bpsmv.edu.in/', '_blank');
+										window.open('https://www.frc.utn.edu.ar/', '_blank');
 									}}
 									className="hover:cursor-pointer"
 								/>
