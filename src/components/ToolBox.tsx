@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import { TbBrandCpp, TbBrandNextjs, TbBrandTypescript } from 'react-icons/tb';
 import { DiJava, DiMongodb, DiPostgresql, DiPython } from 'react-icons/di';
-import { SiDjango, SiExpress, SiFirebase, SiFlutter, SiMysql, SiSqlite } from 'react-icons/si';
-import { FaRust, FaHtml5, FaCss3Alt } from "react-icons/fa";
+import { SiDjango, SiExpress, SiFirebase, SiFlutter, SiMysql, SiSqlite, Kotlin } from 'react-icons/si';
+import { FaRust, FaHtml5, FaCss3Alt, FaPhp } from "react-icons/fa";
 import { BsAndroid2, BsGit } from 'react-icons/bs';
 import { BiLogoJavascript } from 'react-icons/bi';
 import { FcLinux } from 'react-icons/fc';
@@ -47,6 +47,12 @@ const languageTools: Tool[] = [
 		index: 4,
 		name: 'CSS',
 		icon: <FaCss3Alt className="m-4 text-6xl text-blue-600" />,
+	},
+
+	{
+		index: 4,
+		name: 'PHP',
+		icon: <FaPhp className="m-4 text-6xl text-blue-600" />,
 	},
 ];
 
