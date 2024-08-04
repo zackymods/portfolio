@@ -50,8 +50,8 @@ export default function Projects() {
 			name: 'PetrelArq',
 			demo_link: 'https://petrelarq.pages.dev/',
 			github_link: 'https://github.com/JploreDev/PetrelArq',
-			hover_gif_dark: '/project_gifs/PetrelArq.png',
-			hover_gif_light: '/project_gifs/PetrelArq.png',
+			hover_gif_dark: '/project_gifs/petrelgif.gif',
+			hover_gif_light: '/project_gifs/petrelgif.gif',
 		},
 		{
 			index: 1,
