@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { TbBrandCpp, TbBrandNextjs, TbBrandTypescript } from 'react-icons/tb';
 import { DiJava, DiMongodb, DiPostgresql, DiPython } from 'react-icons/di';
-import { SiDjango, SiExpress, SiFirebase, SiFlutter, SiMysql, SiSqlite, Kotlin } from 'react-icons/si';
+import { SiDjango, SiExpress, SiFirebase, SiFlutter, SiMysql, SiSqlite, SiKotlin } from 'react-icons/si';
 import { FaRust, FaHtml5, FaCss3Alt, FaPhp } from "react-icons/fa";
 import { BsAndroid2, BsGit } from 'react-icons/bs';
 import { BiLogoJavascript } from 'react-icons/bi';
