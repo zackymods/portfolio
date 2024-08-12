@@ -98,7 +98,7 @@ export default function LandingPage() {
 				)}
 				<div className="flex justify-center gap-16 py-3 text-5xl text-gray-600">
 					<a
-						href="https://github.com/ChiragAgg5k"
+						href="https://github.com/JploreDev"
 						target="_blank"
 						aria-label="Github"
 						rel="noreferrer"
@@ -107,26 +107,7 @@ export default function LandingPage() {
 						<AiFillGithub />
 						<p className="invisible text-xs group-hover:visible">Github</p>
 					</a>
-					<a
-						href="https://www.linkedin.com/in/chiragagg5k/"
-						target="_blank"
-						rel="noreferrer"
-						aria-label="LinkedIn"
-						className="group hover:cursor-pointer hover:text-cyan-800 dark:hover:text-cyan-500"
-					>
-						<AiFillLinkedin />
-						<p className=" invisible  text-xs group-hover:visible">LinkedIn</p>
-					</a>
-					<a
-						href="https://leetcode.com/ChiragAgg5k/"
-						target="_blank"
-						rel="noreferrer"
-						aria-label="Leetcode"
-						className="group hover:cursor-pointer hover:text-yellow-600"
-					>
-						<SiLeetcode />
-						<p className="invisible text-xs group-hover:visible">Leetcode</p>
-					</a>
+					
 				</div>
 			</div>
 
