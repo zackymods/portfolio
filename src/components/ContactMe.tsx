@@ -87,7 +87,7 @@ export default function ContactMe() {
 				<span className="flex items-center">
 					<AiOutlineLink className="mr-2" />
 					<Link
-						href="https://jploredev-resume.tiiny.site/"
+						href="https://jploredev.tiiny.site"
 						rel="noreferrer"
 						className="group transition duration-300"
 						target="_blank"
