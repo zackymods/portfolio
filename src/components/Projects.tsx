@@ -59,7 +59,7 @@ export default function Projects() {
 			image_dark: '/project_thumbnails/spot-clone.png',
 			description: 'Web Application',
 			name: 'Spot Clone',
-			demo_link: 'https://spot-clonee.netlify.app/',
+			demo_link: 'https://github.com/JploreDev/spotclone',
 			github_link: 'https://github.com/JploreDev/spotclone',
 			hover_gif_dark: '/project_gifs/spot-clone.gif',
 			hover_gif_light: '/project_gifs/spot-clone.gif',
